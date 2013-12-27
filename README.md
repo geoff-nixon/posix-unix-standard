@@ -15,7 +15,7 @@ Basically, to access the standard, you have to **join** the Austin Group, the wo
 It's not exactly advertised, but you can actually do this online: 
   1. Create an account at the Open Group website, [here](https://www2.opengroup.org/ogsys/common/createIndividual.html).  
   2. Log in at this [page](https://collaboration.opengroup.org/operational/portal.php). From the menu on the left, click 'Manage My Activities'.
-  3. At the bottom of the page, under Public Projects, you'll see _The Austin Group_. Click the link to 'join the activity'.
+  3. At the bottom of the page, under Public Projects, you'll see _The Austin Group_. Click to 'join the activity'.
   4. Go to http://www.opengroup.org/austin/login.html and accept their conditions.
   5. At last, a link. It's password protected. Use the login you've just created.
 
