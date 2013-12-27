@@ -1,5 +1,5 @@
-## The POSIX Standard - ISO/IEC 9945
-#  IEEE Std 1003.1 - 2008/Cor 1-2013
+# The POSIX Standard
+### ISO/IEC 9945 / IEEE Std 1003.1 - 2008/Cor 1-2013
 =============
 
 POSIX (i.e., the 'base specification' for UNIX™, a trademark of Bell Labs, or
