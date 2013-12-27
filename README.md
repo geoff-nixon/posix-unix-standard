@@ -30,5 +30,5 @@ https://www.opengroup.org/austin/restricted/issue8-tc1/C138.pdf.
 
 If going through the steps above is just too onerous a task for you, it seems like there are a couple of working logins at [bugmenot.com](http://bugmenot.com), at the time of this writing. Also, just using 'github' for the username and password seems to work.
 
-It's page turner, ladies and gents — enjoy yourself approximately 4000 pages of riveting operating system minutia. 
+It's page turner, ladies and gents — enjoy yourself 3,906 pages of riveting operating system minutia. 
 
