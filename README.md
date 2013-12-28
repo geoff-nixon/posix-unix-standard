@@ -1,7 +1,7 @@
 # The POSIX Standard
 ### ISO/IEC 9945 / IEEE Std 1003.1 - 2008/Cor 1-2013
 
-POSIX (i.e., the 'base specification' for thr Single UNIX™ Specification, which a trademark of Bell Labs, or
+POSIX (i.e., the 'base specification' for the Single UNIX™ Specification, which a trademark of Bell Labs, or
 AT&T, or X/Open, or the Open Group, or somebody) is an open standard — or so they tell me. Trouble is it's awfully hard to get ahold of the standard itself, considering how 'open' it is. If you've tried to find it yourself,
 you've probably wound up on here on the [IEEE website](http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=6506091), where they will gladly let you download a PDF for the low, low price of $500.00 USD, or maybe [here](http://www.iso.org/iso/iso_catalogue/catalogue_tc/catalogue_detail.htm?csnumber=50516), where you can purchase it for CHD 238,00 (Swiss francs). Perhaps you've been naivigating the Open Group's slick [troff-to-html version](http://pubs.opengroup.org/onlinepubs/9699919799) — be sure you version of Netscape Navigator has frames support!
 
