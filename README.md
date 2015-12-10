@@ -22,7 +22,7 @@ _If you're password is rejected, you haven't completed all the steps above succe
 _Go back and make you're actually 'joined the group', etc._
 
 The actual direct link is here:  
-https://www.opengroup.org/austin/restricted/issue8-tc1/C138.pdf.
+https://www.opengroup.org/austin/restricted/issue7-tc1/C138.pdf.
 
 
 If going through the steps above is just too onerous a task for you, it seems like there are a couple of working logins at [bugmenot.com](http://bugmenot.com) at the time of this writing, but YMMV.
