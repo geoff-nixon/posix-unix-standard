@@ -18,11 +18,16 @@ It's not exactly advertised, but you can actually do this online:
 
 While technically a "draft", I've confirmed this is the full, final standard.
 
-_If you're password is rejected, you haven't completed all the steps above successfully._  
-_Go back and make you're actually 'joined the group', etc._
+_If you're password is rejected, you either:_
+  1. [Need to wait a bit (perhaps an hour or so)](https://github.com/geoff-codes/posix-standard/issues/3) for your login/password be enabled.
+  2. [Need to try a different browser. On Windows, some have suggested using Internet Explorer rather than Chrome.](https://github.com/geoff-codes/posix-standard/issues/2) 
+  3. If you still cannot access the PDF, you haven't completed all the steps above successfully. Go back and make you're actually 'joined the group', etc.
 
-The actual direct link is here:  
-https://www.opengroup.org/austin/restricted/issue7-tc1/C138.pdf.
+The actual direct link to the IEEE Std 1003.1, 2013 Edition (Technical Corrigendum 1) is here:  
+https://www.opengroup.org/austin/restricted/issue7-tc1/C138.pdf
+
+The latest drafts of the 2016 Technical Corrigendum 2 are available at:
+https://www.opengroup.org/austin/restricted/2008tc2d3
 
 
 If going through the steps above is just too onerous a task for you, it seems like there are a couple of working logins at [bugmenot.com](http://bugmenot.com) at the time of this writing, but YMMV.
