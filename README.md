@@ -7,8 +7,10 @@
 _POSIX_ (i.e., the 'base specification' for the **Single UNIX™ Specification**) is a trademark of Bell Labs.
  or AT&T, or X/Open, or the Open Group. Or somebody. Is an open standard — or so they tell me.
 
-##### **And it's now received its first revision bump in 14 years!**
-_(Get ready folks! Its gonna be brand new ball game! I'm told the Open Group has really taken semantic versioning to heart.)_ 
+### **And it's now received its first revision bump in 14 years!**
+_(Get ready for a whole brand new ball game! I'm told the Open Group has really taken semantic versioning to heart.)_ 
+
+See: http://www.unix.org/version4, http://www.unix.org/version4/ieee_std.html.
 
 I know your you're dying to get a hold of the new standard yourself,
 and since its the developed **by** "the _Open_ Group", no problem, right?
