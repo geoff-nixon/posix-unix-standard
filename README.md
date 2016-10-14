@@ -10,7 +10,7 @@ _POSIX_ (i.e., the 'base specification' for the **Single UNIX™ Specification**
 ### **And it's now received its first revision bump in 14 years!**
 _(Get ready for a whole brand new ball game! I'm told the Open Group has really taken semantic versioning to heart.)_ 
 
-See: http://www.unix.org/version4, http://www.unix.org/version4/ieee_std.html.
+See: http://www.unix.org/version4, https://www2.opengroup.org/ogsys/catalog/t101...
 
 I know your you're dying to get a hold of the new standard yourself,
 and since its the developed **by** "the _Open_ Group", no problem, right?
