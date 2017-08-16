@@ -17,7 +17,7 @@ and since its the developed **by** "the _Open_ Group", no problem, right?
 
 Well, in fact, I found it a little difficult to get ahold of this _open standard_ myself. If you've tried a hand at it you probably wound up on here on the [IEEE website](http://ieeexplore.ieee.org/document/7582338/), where they will gladly let you download a PDF for the low, low price of $814.00 USD, or just $1,018 for a print copy. That's only a bit more than a three hundred dollar price hike from the last version! Other side of the pond? Maybe [here](http://www.iso.org/iso/iso_catalogue/catalogue_tc/catalogue_detail.htm?csnumber=50516) where you can purchase it for CHD 238,00 (Swiss francs). 
 
-Or if your just a cheapskate like me, perhaps you've been trying to get your browser to work with the Open Group's slick [troff-to-html version](http://pubs.opengroup.org/onlinepubs/9699919799) — be sure you version of Netscape Navigator has frames support!
+Or if your just a cheapskate like me, perhaps you've been trying to get your browser to work with the Open Group's slick [troff-to-html version](http://pubs.opengroup.org/onlinepubs/9699919799) — be sure your version of Netscape Navigator has frames support!
 
 
 So, it took me an absurd amount of time to figure this out, so I thought I'd share — and lucky enough, it its _still_ the case that:
